@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankitkolkata555" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkolkata555?logo=twitter&style=for-the-badge" alt="ankitkolkata555" /></a> </p>
 
-- 🔭 I’m currently working on **Developing a balance sheet web app**
+- 🔭 I’m currently working on **Designing using Figma**
 
 - 🌱 I’m currently learning **JavaScript, React, Figma**
 
