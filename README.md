@@ -1,6 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://kitt555.io)
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">An aspiring frontend web developer from India</h3>
+<h3 align="center">An aspiring frontend web developer and ui/ux designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Developing a balance sheet web app**
 
-- 🌱 I’m currently learning **JavaScript, ReactJs**
+- 🌱 I’m currently learning **JavaScript, React, Figma**
 
-- 💬 Ask me about **Website development, HTML, CSS, JavaScript**
+- 💬 Ask me about **Website development, HTML, CSS, JavaScript, ui design**
 
 - 📫 How to reach me **ankitkolkata555@gmail.com**
 
